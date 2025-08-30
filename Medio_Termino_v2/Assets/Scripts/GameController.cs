@@ -30,11 +30,11 @@ public class GameController : MonoBehaviour
         nextPattern += Time.deltaTime;
         if (nextPattern < 10)
         {
-            pattern3();
+            pattern1();
         }
         else if (nextPattern >= 10 && nextPattern < 20)
         {
-            pattern3();
+            pattern2();
         }
         else if (nextPattern >= 20 && nextPattern < 30)
         {
