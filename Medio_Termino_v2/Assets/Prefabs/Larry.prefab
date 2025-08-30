@@ -337,7 +337,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3619440186602078876}
   - component: {fileID: 7392110822314699658}
-  - component: {fileID: -5555405077849100183}
+  - component: {fileID: 3361982353073947334}
   m_Layer: 0
   m_Name: Larry
   m_TagString: Untagged
@@ -384,7 +384,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &-5555405077849100183
+--- !u!114 &3361982353073947334
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -396,6 +396,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de793bf84c7ad4a4ebded0f608dccf5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 5
 --- !u!1 &5544778678347683580
 GameObject:
   m_ObjectHideFlags: 0
